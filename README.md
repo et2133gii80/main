@@ -2,7 +2,7 @@
 ## Описание проекта
 Программа создана для фильтрации и сортировки банковских счетов по дате и оплате.
 ## Project dependencies:
-* The program uses the version Python 3.12.4
+* The program uses the version Python 3.12.5
 * flake8 = "7.1.1"
 * black = "24.8.0"
 * sort = "5.13.2"
